@@ -8,6 +8,11 @@
 ![Awdrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwdreyCandido&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwdreyCandido&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<div style="display: inline-block">
+    <img align=center height="180rem" alt="HTML" src="https://github-readme-stats.vercel.app/api?username=AwdreyCandido&show_icons=true&theme=tokyonight"/>
+    <img align=center height="180rem"  alt="CSS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwdreyCandido&layout=compact"/>
+</div>
+
 ### Meus superpoderes tecnológicos 👨‍💻
 
 <div style="display: inline-block">
