@@ -5,12 +5,9 @@
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 
 
-![Awdrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwdreyCandido&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwdreyCandido&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display: inline-block">
-    <img align=center height="180rem" alt="HTML" src="https://github-readme-stats.vercel.app/api?username=AwdreyCandido&show_icons=true&theme=tokyonight"/>
-    <img align=center height="180rem"  alt="CSS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwdreyCandido&layout=compact"/>
+<div style="display: flex">
+    <img align=center height="150rem" alt="HTML" src="https://github-readme-stats.vercel.app/api?username=AwdreyCandido&show_icons=true&theme=tokyonight"/>
+    <img align=center height="150rem"  alt="CSS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwdreyCandido&layout=compact"/>
 </div>
 
 ### Meus superpoderes tecnológicos 👨‍💻
