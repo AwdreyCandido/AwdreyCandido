@@ -1,25 +1,32 @@
-## Olá, me chamo Awdrey 😎💻
-
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awdrey-candido-67b381221/)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/awdrey.candido/)
-[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+## Hello there, my name is <strong>Awdrey!</strong> 😎
 
 
-<div style="display: flex">
-    <img align=center height="150rem" alt="HTML" src="https://github-readme-stats.vercel.app/api?username=AwdreyCandido&show_icons=true&theme=tokyonight"/>
-    <img align=center height="150rem"  alt="CSS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwdreyCandido&layout=compact"/>
-</div>
+👨🏽‍💻 I am 22 years old, I live In Pernambuco, Brazil and I'm a self-taught Front-End developer.
 
-### Meus superpoderes tecnológicos 👨‍💻
+👨🏽‍🎓 At the moment I'm graduating in Information Systems at Universidade Federal Rural de Pernambuco (UFRPE).
 
-<div style="display: inline-block">
-    <img align=center alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align=center alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align=center alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-    <img align=center alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align=center alt="NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img align=center alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-    <img align=center alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align=center alt="REACTNATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align=center alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div>
+🚀 I'm always seeking to enhance my skills and knowledge by exploring new abilities and technologies. My aim is to add value to every project I work on, utilizing my habilities.
+
+🤖 I'm also a co-founder of Mangrover startup, where I work as a Front-End developer and I was responsible for the construction and deployment of our most recent project <a href="https://gpm.mangrover.com.br/login"><strong>Gestor Político Mangrover - GPM</strong></a>, a CRM to manage political cabinets.
+
+---
+
+## 🛠️ My Hard Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" alt="Tailwind Css"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="Sass"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="NextJs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" alt="Python"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" alt="Kotlin"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Android_icon-icons.com_66772.png" alt="Android"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="Docker"/></code>
+
+
+
