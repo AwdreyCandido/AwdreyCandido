@@ -9,6 +9,8 @@
 
 🤖 I'm also a co-founder of Mangrover startup, where I work as a Front-End developer and I was responsible for the construction and deployment of our most recent project <a href="https://gpm.mangrover.com.br/login"><strong>Gestor Político Mangrover - GPM</strong></a>, a CRM to manage political cabinets.
 
+🌱 I’m currently into .NET & Angular stack and some Machine Learning things
+
 ---
 
 ## 🛠️ My Hard Skills
