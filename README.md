@@ -30,7 +30,8 @@
 <h3 style="margin-top: 200px;">🖥️ Back-End:</h3>
 <p align="">
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=js,nodejs,express,cs,dotnet,python,django,php" />
+<!--     <img  src="https://skillicons.dev/icons?i=js,nodejs,express,cs,dotnet,python,django,php" /> -->
+    <img  src="https://skillicons.dev/icons?i=js,nodejs,express,cs,dotnet" />
   </a>
 </p>
 
