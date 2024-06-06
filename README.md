@@ -11,8 +11,9 @@
 
 🌱 I’m currently into .NET & Angular stack and some Machine Learning things
 
+<p style="height: 10em"></p>
 
-<div align="">
+<div  align="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AwdreyCandido&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwdreyCandido&layout=compact&langs_count=7&theme=transparent"/>
 </div>
@@ -41,6 +42,9 @@
     <img  src="https://skillicons.dev/icons?i=react,flutter,kotlin,androidstudio" />
   </a>
 </p>
+
+<h3 style="margin-top: 200px;">🤝 Visitors:</h3>
+<p align=""><img align="center" src="https://profile-counter.glitch.me/{AwdreyCandido}/count.svg" /></p> 
 
 
 
