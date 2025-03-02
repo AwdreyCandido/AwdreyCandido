@@ -31,7 +31,7 @@
 <p align="">
   <a href="https://skillicons.dev">
 <!--     <img  src="https://skillicons.dev/icons?i=js,nodejs,express,cs,dotnet,python,django,php" /> -->
-    <img  src="https://skillicons.dev/icons?i=js,nodejs,express,cs,dotnet" />
+    <img  src="https://skillicons.dev/icons?i=js,nodejs,express,cs,dotnet,php,laravel" />
   </a>
 </p>
 
